@@ -4,7 +4,7 @@
 Ее нужно вставить в настройки компонента обновления.
 
 https://korenevskiy.github.io/Joomla_Update_Russian/core.xml
-`https://korenevskiy.github.io/Joomla_Update_Russian/core.xml`
+```https://korenevskiy.github.io/Joomla_Update_Russian/core.xml```
 
 Ссылка основана на оригинальной 
 https://update.joomla.org/core/list.xml
