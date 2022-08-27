@@ -35,4 +35,5 @@ https://korenevskiy.github.io/Joomla_Update_Russian/core.xml
 ![image](https://user-images.githubusercontent.com/6898474/177043621-c11b1f97-54a5-41d3-9428-a9cbabf50398.png)
 
 Альтернативный серурс https://joomla-update.org
+
 Альтернативная ссылка https://joomla-update.org/core/sts/list_sts.xml
