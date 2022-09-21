@@ -1,4 +1,5 @@
 <updates>
+
 <update>
 <name>Joomla! 2.5</name>
 <description>Joomla! CMS</description>
@@ -17,6 +18,7 @@
 <section>LTS</section>
 <targetplatform name="joomla" version="2.5"/>
 </update>
+  
 <update>
 <name>Joomla! 3.1</name>
 <description>Joomla! CMS</description>
@@ -35,6 +37,7 @@
 <section>STS</section>
 <targetplatform name="joomla" version="3.1" min_dev_level="2" max_dev_level="2"/>
 </update>
+  
 <update>
 <name>Joomla! 3.2</name>
 <description>Joomla! CMS</description>
@@ -53,6 +56,7 @@
 <section>STS</section>
 <targetplatform name="joomla" version="3.0"/>
 </update>
+  
 <update>
 <name>Joomla! 3.2</name>
 <description>Joomla! CMS</description>
@@ -71,6 +75,7 @@
 <section>STS</section>
 <targetplatform name="joomla" version="3.1" min_dev_level="0" max_dev_level="1"/>
 </update>
+  
 <update>
 <name>Joomla! 3.2</name>
 <description>Joomla! CMS</description>
@@ -89,6 +94,7 @@
 <section>STS</section>
 <targetplatform name="joomla" version="3.1" min_dev_level="3"/>
 </update>
+  
 <update>
 <name>Joomla! 3.2</name>
 <description>Joomla! CMS</description>
@@ -107,6 +113,7 @@
 <section>STS</section>
 <targetplatform name="joomla" version="3.2" min_dev_level="0" max_dev_level="5"/>
 </update>
+  
 <update>
 <name>Joomla! 3.2</name>
 <description>Joomla! 3.2 CMS</description>
@@ -125,6 +132,7 @@
 <section>STS</section>
 <targetplatform name="joomla" version="3.2" min_dev_level="6"/>
 </update>
+  
 <update>
 <name>Joomla! 3.6</name>
 <description>Joomla! 3.6 CMS</description>
@@ -144,6 +152,7 @@
 <targetplatform name="joomla" version="3.[23456]"/>
 <php_minimum>5.3.10</php_minimum>
 </update>
+  
 <update>
 <name>Joomla! 3.10</name>
 <description>Joomla! 3.10 CMS</description>
@@ -163,31 +172,6 @@
 <targetplatform name="joomla" version="3.6.5"/>
 <php_minimum>5.3.10</php_minimum>
 </update>
-<update>
-<name>Joomla! 3.10</name>
-<description>Joomla! 3.10 CMS</description>
-<element>joomla</element>
-<type>file</type>
-<version>3.10.10</version>
-<infourl title="Joomla 3.10.10 Release">https://www.joomla.org/announcements/release-news/5861-joomla-4-1-5-and-3-10-10-release.html</infourl>
-<downloads>
-<downloadurl type="full" format="zip">https://github.com/joomla/joomla-cms/releases/download/3.10.10/Joomla_3.10.10-Stable-Update_Package.zip</downloadurl>
-<downloadsource type="full" format="zip">https://downloads.joomla.org/cms/joomla3/3-10-10/Joomla_3.10.10-Stable-Update_Package.zip</downloadsource>
-<downloadsource type="full" format="zip">https://github.com/joomla/joomla-cms/releases/download/3.10.10/Joomla_3.10.10-Stable-Update_Package.zip</downloadsource>
-<downloadsource type="full" format="zip">https://update.joomla.org/releases/3.10.10/Joomla_3.10.10-Stable-Update_Package.zip</downloadsource>
-</downloads>
-<tags>
-<tag>stable</tag>
-</tags>
-<sha256>b5f8812397b238318b316820d7861e336ed4e7034b892ab0399208d4e26e7238</sha256>
-<sha384>308182e41256554ffad4caa403c68a20bce520fc462c6a7f9ea06cc99033e20059d82c30b3def98e739a31334317893a</sha384>
-<sha512>413160a0826ec0b0f260cf7377914d242638eac51cd8b261817b2f2ea1b3030ba9bc0da424e085d95254ccc4ecafaa4236f9e16e534dfd5938ccc88edaa67c21</sha512>
-<maintainer>Joomla! Production Department</maintainer>
-<maintainerurl>https://www.joomla.org</maintainerurl>
-<section>STS</section>
-<targetplatform name="joomla" version="3.([789]|10)"/>
-<php_minimum>5.3.10</php_minimum>
-</update>
   
 <update>
 <name>Joomla! 3.10</name>
@@ -197,8 +181,8 @@
 <version>3.10.11</version>
 <infourl title="Joomla 3.10.11 Release">https://www.joomla.org/announcements/release-news/5865-joomla-4-2-release.html</infourl>
 <downloads>
-<downloadurl type="full" format="zip">https://github.com/joomla/joomla-cms/releases/download/3.10.11/Joomla_3.10.11-Stable-Update_Package.zip</downloadurl>
-<downloadsource type="full" format="zip">https://downloads.joomla.org/cms/joomla3/3-10-11/Joomla_3.10.11-Stable-Update_Package.zip</downloadsource>
+<downloadurl type="full" format="zip">https://github.com/joomla/joomla-cms/releases/download/3.10.11/Joomla_3.10.11-Stable-Update_Package.zip</downloadsource>
+<downloadsource type="full" format="zip">https://downloads.joomla.org/cms/joomla3/3-10-11/Joomla_3.10.11-Stable-Update_Package.zip</downloadurl>
 <downloadsource type="full" format="zip">https://github.com/joomla/joomla-cms/releases/download/3.10.11/Joomla_3.10.11-Stable-Update_Package.zip</downloadsource>
 <downloadsource type="full" format="zip">https://update.joomla.org/releases/3.10.11/Joomla_3.10.11-Stable-Update_Package.zip</downloadsource>
 </downloads>
@@ -214,4 +198,5 @@
 <targetplatform name="joomla" version="3.([789]|10)"/>
 <php_minimum>5.3.10</php_minimum>
 </update>
+  
 </updates>
