@@ -18,6 +18,7 @@
 <extension name="Joomla" element="joomla" type="file" version="4.2.3" targetplatformversion="4.0.5" detailsurl="https://korenevskiy.github.io/Joomla_Update_Russian/extension_sts.xml"/>
 <extension name="Joomla" element="joomla" type="file" version="4.2.3" targetplatformversion="4.0.6" detailsurl="https://korenevskiy.github.io/Joomla_Update_Russian/extension_sts.xml"/>
 <extension name="Joomla" element="joomla" type="file" version="4.0.4" targetplatformversion="4.0" detailsurl="https://korenevskiy.github.io/Joomla_Update_Russian/extension_sts.xml"/>
-<extension name="Joomla" element="joomla" type="file" version="4.2.3" targetplatformversion="4.1" detailsurl="https://korenevskiy.github.io/Joomla_Update_Russian/extension_sts.xml"/>
-<extension name="Joomla" element="joomla" type="file" version="4.2.3" targetplatformversion="4.2" detailsurl="https://korenevskiy.github.io/Joomla_Update_Russian/extension_sts.xml"/>
+  
+<extension name="Joomla" element="joomla" type="file" version="4.2.5" targetplatformversion="4.1" detailsurl="https://korenevskiy.github.io/Joomla_Update_Russian/extension_sts.xml"/>
+<extension name="Joomla" element="joomla" type="file" version="4.2.5" targetplatformversion="4.2" detailsurl="https://korenevskiy.github.io/Joomla_Update_Russian/extension_sts.xml"/>
 </extensionset>
