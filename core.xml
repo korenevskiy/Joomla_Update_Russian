@@ -15,7 +15,6 @@
 <extension name="Joomla" element="joomla" type="file" version="3.10.11" targetplatformversion="3.9" detailsurl="https://korenevskiy.github.io/Joomla_Update_Russian/extension.xml"/>
 <extension name="Joomla" element="joomla" type="file" version="3.10.11" targetplatformversion="3.10" detailsurl="https://korenevskiy.github.io/Joomla_Update_Russian/extension.xml"/>
 
-
 <extension name="Joomla" element="joomla" type="file" version="4.2.5" targetplatformversion="4.0.4" detailsurl="https://joomla-update.org/core/sts/extension_sts.xml"/>
 <extension name="Joomla" element="joomla" type="file" version="4.2.5" targetplatformversion="4.0.5" detailsurl="https://joomla-update.org/core/sts/extension_sts.xml"/>
 <extension name="Joomla" element="joomla" type="file" version="4.2.5" targetplatformversion="4.0.6" detailsurl="https://joomla-update.org/core/sts/extension_sts.xml"/>
@@ -24,3 +23,4 @@
 <extension name="Joomla" element="joomla" type="file" version="4.2.5" targetplatformversion="4.2" detailsurl="https://joomla-update.org/core/sts/extension_sts.xml"/>
 </extensionset>
 <!-- https://joomla-update.org/core/sts/extension_sts.xml -->
+<!-- https://update.joomla.org/core/list.xml  -->
