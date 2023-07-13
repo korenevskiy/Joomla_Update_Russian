@@ -23,6 +23,7 @@
 <extension name="Joomla" element="joomla" type="file" version="4.3.2" targetplatformversion="4.1" detailsurl="https://update.joomla.org/core/sts/extension_sts.xml"/>
 <extension name="Joomla" element="joomla" type="file" version="4.3.2" targetplatformversion="4.2" detailsurl="https://update.joomla.org/core/sts/extension_sts.xml"/>
 <extension name="Joomla" element="joomla" type="file" version="4.3.2" targetplatformversion="4.3" detailsurl="https://update.joomla.org/core/sts/extension_sts.xml"/>
+<extension name="Joomla" element="joomla" type="file" version="4.3.3" targetplatformversion="4.3" detailsurl="https://update.joomla.org/core/sts/extension_sts.xml"/>
 
 </extensionset>
 <!-- https://joomla-update.org/core/sts/extension_sts.xml -->
