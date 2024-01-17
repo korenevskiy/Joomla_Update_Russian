@@ -30,7 +30,7 @@
 <extension name="Joomla" element="joomla" type="file" version="4.4.1" targetplatformversion="4.3" detailsurl="https://joomla-update.org/core/sts/extension_sts.xml" />
 <extension name="Joomla" element="joomla" type="file" version="4.4.1" targetplatformversion="4.4" detailsurl="https://joomla-update.org/core/sts/extension_sts.xml" />
 <extension name="Joomla" element="joomla" type="file" version="5.0.1" targetplatformversion="5.0" detailsurl="https://joomla-update.org/core/sts/extension_sts.xml" />
-https://joomla-update.org/core/sts/extension_sts.xml
+
 </extensionset>
 <!-- https://joomla-update.org/core/sts/extension_sts.xml -->
 <!-- https://update.joomla.org/core/list.xml  -->
