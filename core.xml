@@ -39,6 +39,7 @@
 <extension name="Joomla" element="joomla" type="file" version="5.2.3" targetplatformversion="5.0" detailsurl="https://joomla-update.org/core/j5/next.xml" />
 <extension name="Joomla" element="joomla" type="file" version="5.2.3" targetplatformversion="5.1" detailsurl="https://joomla-update.org/core/j5/next.xml" />
 <extension name="Joomla" element="joomla" type="file" version="5.2.3" targetplatformversion="5.2" detailsurl="https://joomla-update.org/core/j5/next.xml" />
+<extension name="Joomla" element="joomla" type="file" version="5.2.4" targetplatformversion="5.2" detailsurl="https://joomla-update.org/core/j5/next.xml" />
   
 </extensionset>
 <!-- https://joomla-update.org/core/sts/list_sts.xml  -->
